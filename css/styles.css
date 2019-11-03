@@ -1,7 +1,3 @@
-.important{
-  font-style: normal;
-}
-
 img{
   width: 400px;
   height: 300px;
@@ -16,6 +12,12 @@ img{
 .important{
   font-weight: bold;
   color: blue;
+}
+
+.super-important{
+  font-weight:bold;
+  color: red;
+  font-style: italic;
 }
 
 .awesome{

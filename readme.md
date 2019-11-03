@@ -28,4 +28,4 @@ This is a website about myself and the s I have worked on so far at Epicodus dur
 
 ### License
 
-* _We have a license. Trust us._
+* _I have a license. Trust me._
