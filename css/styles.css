@@ -1,3 +1,30 @@
 .important{
   font-style: normal;
 }
+
+img{
+  width: 400px;
+  height: 300px;
+  border: 10px solid black;
+  float: left;
+}
+
+.intro{
+  width: 400px;
+}
+
+.important{
+  font-weight: bold;
+  color: blue;
+}
+
+.awesome{
+  color: green;
+  font-weight: bold;
+  font-stretch: extra-expanded;
+}
+
+.not-awesome{
+  color: brown;
+  font-weight: bold;
+}
