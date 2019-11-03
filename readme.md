@@ -3,7 +3,7 @@
 #### By _Alex Skreen_
 ## Descripton
 
-This is a website about myself and the project I have worked on so far at Epicodus during their intro to programming class.
+This is a website about myself and the s I have worked on so far at Epicodus during their intro to programming class.
 
 ## Setup/Installation Requirements
 
