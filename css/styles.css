@@ -1,0 +1,9 @@
+img{
+  align-items: center;
+  float: left;
+  border: 15px solid black;
+}
+
+Body{
+  background: Red;
+}
