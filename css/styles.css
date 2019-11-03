@@ -1,11 +1,36 @@
 img{
   align-items: center;
   border: 15px solid black;
-  width: 300px;
-  height: 400px;
+  width: 400px;
+  height: 500px;
   object-fit: cover;
 }
 
-Body{
-  background: Red;
+h1{
+  color: orange;
+  font-style: normal;
+  text-align: left;
+}
+
+h2{
+  color: red;
+  font-style: oblique;
+  text-align: left;
+}
+
+p{
+  font-family: sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+p.intro{
+  border: 15px solid black;
+  background: orange;
+  font-style: oblique;
+  width: 400px;
+}
+ul{
+  font-family: sans-serif;
+  font-weight: normal;
+  font-style: normal;
 }
