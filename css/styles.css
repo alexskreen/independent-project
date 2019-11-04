@@ -50,3 +50,9 @@ h2{
 body{
   background-color: #0099cc;
 }
+
+@media screen and (max-width: 550px) {
+  body{
+    background-color: teal;
+  }
+}
