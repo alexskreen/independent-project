@@ -1,6 +1,7 @@
 # _My first independent project_
 #### _This is my first solo project at Epicodus_
 #### By _Alex Skreen_
+#### https://alexskreen.github.io/independent-project/
 ## Descripton
 
 This is a website about myself and the s I have worked on so far at Epicodus during their intro to programming class.
