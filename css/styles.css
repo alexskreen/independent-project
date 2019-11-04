@@ -21,8 +21,9 @@ img {
 
 .super-important {
   font-weight: bold;
-  color: red;
   font-style: italic;
+  font-variant: small-caps;
+  color: yellow;
 }
 
 .awesome {
