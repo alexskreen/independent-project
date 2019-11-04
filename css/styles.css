@@ -10,6 +10,7 @@ img{
 
 .intro{
   width: 400px;
+  color: orange;
 }
 
 .important{
@@ -38,5 +39,10 @@ img{
 .column{
   float: left;
   width: 30%;
+
+}
+
+h2{
+  color: purple;
 
 }
