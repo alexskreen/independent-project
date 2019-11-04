@@ -1,8 +1,11 @@
 img{
   width: 400px;
   height: 300px;
-  border: 10px solid black;
-  float: left;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 15px;
+  background-color: orange;
+  align-content: center;
 }
 
 .intro{
@@ -12,6 +15,7 @@ img{
 .important{
   font-weight: bold;
   color: blue;
+  width: 500px;
 }
 
 .super-important{
@@ -29,4 +33,10 @@ img{
 .not-awesome{
   color: brown;
   font-weight: bold;
+}
+
+.column{
+  float: left;
+  width: 30%;
+
 }
