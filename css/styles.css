@@ -1,4 +1,4 @@
-img{
+img {
   width: 400px;
   height: 300px;
   border: 5px solid black;
@@ -8,51 +8,62 @@ img{
   align-content: center;
 }
 
-.intro{
+.intro {
   width: 400px;
   color: orange;
 }
 
-.important{
+.important {
   font-weight: bold;
   color: blue;
   width: 500px;
 }
 
-.super-important{
-  font-weight:bold;
+.super-important {
+  font-weight: bold;
   color: red;
   font-style: italic;
 }
 
-.awesome{
+.awesome {
   color: green;
   font-weight: bold;
   font-stretch: extra-expanded;
 }
 
-.not-awesome{
+.not-awesome {
   color: brown;
   font-weight: bold;
 }
 
-.column{
+.column {
   float: left;
   width: 30%;
-
 }
 
-h2{
+h2 {
   color: purple;
-
 }
 
-body{
+body {
   background-color: #0099cc;
 }
 
 @media screen and (max-width: 550px) {
-  body{
+  body {
     background-color: white;
   }
+}
+
+.sneaky {
+  color: #0099cc
+}
+
+.quotes {
+  color: yellow;
+  font-variant: small-caps;
+}
+
+.quote {
+  font-variant: small-caps
 }
