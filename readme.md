@@ -18,15 +18,16 @@ This is a website about myself and the s I have worked on so far at Epicodus dur
 * _failed numerous pen-testing_
 * _merch credit card encryption very weak_
 
-## Support and Contact Deets
+## Support and Contact Details
 
-* _google us_
+* Email support@alexskreen.com for any necessary support
 
 ## Technologies Used
 * _Git Hub, Travis's generosity_
 * _Atom_
 * _Stack overflow_
 
-### License
+### Legal
 
-* _I have a license. Trust me._
+* Copyright (c) 2019 Alex Skreen
+* This software is licensed under the MIT license
